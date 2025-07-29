@@ -81,9 +81,19 @@ If you like this project:
 
 ## 🌍 Connect With Me
 
-- 💬 [Discord]([[https://github.com/11nawid](https://github.com/11nawid)](https://discord.com/users/1273343324098531443))
-- 🐱 [GitHub]([https://github.com/11nawid](https://github.com/11nawid))
-- 🎵 [instagram]([https://instagram.com/11.nawid/](https://www.instagram.com/11.nawid/))
+<p align="left">
+  <a href="https://discord.com/users/1273343324098531443" target="_blank">
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  
+  <a href="https://github.com/11nawid" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://www.instagram.com/11.nawid/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 
 ---
