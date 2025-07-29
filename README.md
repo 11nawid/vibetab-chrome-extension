@@ -3,7 +3,7 @@
 
 A **minimal**, **aesthetic**, and **open-source** Chrome new tab extension featuring a fullscreen video background and clean social icons. Perfect for anyone who wants a more ambient, calming browsing experience.
 
-![Preview](preview.png) <!-- Add your actual screenshot here -->
+![Preview](screenshots/ss-1.png)
 
 ---
 
@@ -21,7 +21,7 @@ A **minimal**, **aesthetic**, and **open-source** Chrome new tab extension featu
 
 1. **Download or clone** this repository:
    ```bash
-   git clone https://github.com/yourusername/vibetab-chrome-extension.git
+   git clone https://github.com/11nawid/vibetab-chrome-extension.git
    ```
 
 2. Open Chrome and go to:
@@ -37,13 +37,6 @@ A **minimal**, **aesthetic**, and **open-source** Chrome new tab extension featu
 
 ---
 
-## 📸 Preview
-
-> 📌 Make sure to include a screenshot named `preview.png` in your repo root for this to show up.
-
-![VibeTab Preview](preview.png)
-
----
 
 ## 🗂 File Structure
 
@@ -88,13 +81,10 @@ If you like this project:
 
 ## 🌍 Connect With Me
 
-> Replace links with your actual social profiles
+- 💬 [Discord]([[https://github.com/11nawid](https://github.com/11nawid)](https://discord.com/users/1273343324098531443))
+- 🐱 [GitHub]([https://github.com/11nawid](https://github.com/11nawid))
+- 🎵 [instagram]([https://instagram.com/11.nawid/](https://www.instagram.com/11.nawid/))
 
-- 💬 [Discord](https://discord.com/)
-- 🐱 [GitHub](https://github.com/yourusername)
-- 🎵 [Spotify](https://spotify.com/)
-- 🐦 [Twitter](https://twitter.com/)
-- 📺 [YouTube](https://youtube.com/)
 
 ---
 
@@ -109,7 +99,7 @@ If you like this project:
 
 ## 📄 License
 
-MIT License © 2025 [Your Name](https://github.com/yourusername)
+MIT License © 2025 [Nawid](https://github.com/11nawid)
 
 ---
 
