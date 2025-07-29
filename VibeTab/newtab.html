@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>VibeTab</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Background video -->
+  <video id="bg-video" autoplay muted loop playsinline>
+    <source src="bg.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <div class="overlay"></div>
+
+  <div class="main">
+    <div class="logo">VibeTab</div>
+    <div class="tagline">Your serene browsing experience starts here</div>
+    
+    <div class="search-container">
+      <form action="https://www.google.com/search" method="GET" class="search-form">
+        <input
+          type="text"
+          name="q"
+          class="search-input"
+          placeholder="Search Google or type a URL..."
+          autocomplete="on"
+          autofocus
+          required
+        />
+      </form>
+    </div>
+<div class="timer-container">
+  
+</div>
+    <div class="quick-links">
+      <a href="https://github.com" class="link-card" style="animation-delay: 0.5s">
+        <img src="icons/github.png" alt="GitHub" class="link-icon" width="40" height="40">
+        <div class="link-label">GitHub</div>
+      </a>
+      <a href="https://youtube.com" class="link-card" style="animation-delay: 0.55s">
+        <img src="icons/youtube.png" alt="YouTube" class="link-icon" width="40" height="40">
+        <div class="link-label">YouTube</div>
+      </a>
+      <a href="https://spotify.com" class="link-card" style="animation-delay: 0.7s">
+        <img src="icons/spotify.png" alt="Spotify" class="link-icon" width="40" height="40">
+        <div class="link-label">Spotify</div>
+      </a>
+      <a href="https://discord.com" class="link-card" style="animation-delay: 0.7s">
+        <img src="icons/discord.png" alt="Spotify" class="link-icon" width="40" height="40">
+        <div class="link-label">Discord</div>
+      </a>
+      <a href="https://twitter.com" class="link-card" style="animation-delay: 0.75s">
+        <img src="icons/twitter.png" alt="Twitter" class="link-icon" width="40" height="40">
+        <div class="link-label">Twitter</div>
+      </a>
+    </div>
+  </div>
+
+  <!-- Cross-Tab Timer -->
+  <div class="timer-container">
+    <div class="timer-header">
+      <div class="timer-title">Focus Timer</div>
+      <div class="timer-credit">Theme by 11nawid</div>
+    </div>
+    <div class="timer-display" id="timer-display">25:00</div>
+    <div class="timer-controls">
+      <button class="timer-btn timer-btn-primary" id="timer-start">Start</button>
+      <button class="timer-btn" id="timer-reset">Reset</button>
+    </div>
+    <div class="timer-progress">
+      <div class="timer-progress-bar" id="timer-progress"></div>
+    </div>
+  </div>
+
+  <!-- Clock -->
+  <div class="time-container">
+    <div class="time" id="time">--:-- --</div>
+    <div class="date" id="date">-- --- ----</div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
